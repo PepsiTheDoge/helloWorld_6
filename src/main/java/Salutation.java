@@ -1,5 +1,5 @@
 public class Salutation {
-    public String helloWorld() {
-        return "Hello World!";
+    public void helloWorld() {
+        System.out.println("Hello mates!");
     }
 }
